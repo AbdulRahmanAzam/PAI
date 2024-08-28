@@ -1,0 +1,14 @@
+
+a = input("Your good name!")
+
+print(f"Hello! {a}")
+
+print("we cannot connect your phone on whatsapp, what to do ")
+
+b = input("")
+
+if(b == "yes"):
+    prob = input("share your problem with us")
+    print("Thanks for your feedback,we will resolve your problem")
+else:
+    print("Okay! Good to see you , stay connected")
