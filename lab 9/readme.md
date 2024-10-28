@@ -1,4 +1,5 @@
-[Uploading PAI - Lab 09 (Matplotlib).pdf…]()
+
+[PAI - Lab 09 (Matplotlib).pdf](https://github.com/user-attachments/files/17537440/PAI.-.Lab.09.Matplotlib.pdf)
 
 
 
