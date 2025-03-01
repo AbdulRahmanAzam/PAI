@@ -1,0 +1,11 @@
+ID,Age,Gender,Department,Salary ($),Experience (Years),Work Hours/Week,Projects Completed,Job Satisfaction (1-10),Training Hours,Promotion Status
+1,28,Male,IT,70000,3,40,5,7,20,No
+2,35,Female,HR,60000,7,38,4,8,15,Yes
+3,42,Male,Finance,90000,12,45,6,6,18,Yes
+4,30,Female,Marketing,65000,5,42,7,9,25,No
+5,50,Male,Sales,85000,15,50,8,5,12,Yes
+6,41,Female,HR,62000,9,37,5,7,16,No
+7,29,Male,IT,75000,4,39,6,8,22,No
+8,33,Female,Finance,88000,11,44,7,6,20,Yes
+9,45,Male,Sales,87000,14,48,9,5,14,Yes
+10,39,Female,Marketing,67000,6,41,6,8,19,No
